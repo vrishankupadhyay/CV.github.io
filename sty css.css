@@ -271,11 +271,11 @@ h5 {
 
 @keyframes slider {
     0% {
-        background-image: url(file:///C:/Users/Sarthak/Downloads/IMG_20211202_003436_143.jpg);
+        background-image: url(photos/Babu.jpeg);
         background-size: 100% 100%;
     }
     35% {
-        background-image: url(file:///C:/Users/Sarthak/Downloads/IMG_20211230_212809_826.jpg);
+        background-image: url(photos/Vrishank.jpeg);
         background-size: 100% 100%;
     }
     70% {
